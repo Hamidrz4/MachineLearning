@@ -9,7 +9,6 @@ This repository contains Python code that demonstrates the performance of Suppor
 - [Datasets](#datasets)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 Support Vector Machines are powerful classifiers that can separate data points using different kernel functions. This repository showcases the performance of SVMs with linear, radial basis function (RBF), and polynomial kernels on various datasets. Decision regions are visualized using the `mlxtend` library.
