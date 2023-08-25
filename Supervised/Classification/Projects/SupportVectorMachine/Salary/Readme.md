@@ -1,6 +1,3 @@
-Certainly, here's a README template for your code:
-
-```markdown
 # SVM Decision Boundary Visualization
 
 This repository contains Python code that demonstrates the visualization of an SVM decision boundary using matplotlib. The code preprocesses a dataset, applies an SVM model with a linear kernel, and plots the decision boundary on a meshgrid.
