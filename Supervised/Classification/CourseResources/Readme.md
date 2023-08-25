@@ -29,7 +29,7 @@ Delve deeper into the world of machine learning with a focus on unsupervised lea
 - Feature Selection
 - Dimensionality Reduction (PCA)
 - Clustering Algorithms (K-Means, Hierarchical Clustering)
-- Anomaly Detection
+- Association Rule Mining
 
 
 ## Data Science with Python Book's Code
