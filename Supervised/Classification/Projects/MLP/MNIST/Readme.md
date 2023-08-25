@@ -51,8 +51,3 @@ The model achieves an accuracy of approximately 98% on the test dataset. Cross-v
 ## Conclusion
 
 The MLP Classifier demonstrates strong performance in recognizing handwritten digits from the MNIST dataset. The model achieves high accuracy on both validation and test datasets, suggesting its effectiveness in real-world applications.
-
-Feel free to experiment with hyperparameters, architectures, and optimization techniques to further improve the model's performance.
-```
-
-Remember that this is just a sample README and you can modify it to match your project's details and structure.
