@@ -1,2 +1,1 @@
-# MachineLearning
-![ml](/1_cG6U1qstYDijh9bPL42e-Q.jpg)
+![ml](/top-10-machine-learning-projects-for-beginners-using-python.png)
